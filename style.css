@@ -6,4 +6,14 @@
 
 body{
     background-color: #f1f1f0;
+    font-family: "Agdasima", sans-serif;
+}
+
+h2{
+    color: grey;
+    margin-right: 40;
+}
+
+.max-w-sm{
+    max-width: 576px;
 }
